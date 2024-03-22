@@ -1,0 +1,28 @@
+begin
+    in
+    popr n
+
+    push 1
+    popr i
+
+    push 1
+    popr res
+
+    cicle:
+        pushr res
+        pushr i
+        mul
+        popr res
+
+        pushr i
+        push 1
+        add
+        popr i
+
+        pushr i
+        pushr n
+        jae cicle
+    
+    pushr res
+    out
+end

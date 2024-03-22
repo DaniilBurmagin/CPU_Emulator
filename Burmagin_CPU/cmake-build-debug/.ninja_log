@@ -1,0 +1,15 @@
+# ninja log v5
+1	2132	7328033666483767	project/CMakeFiles/Source.dir/src/CPU.cpp.obj	837d3684430cf382
+30	2302	7328033668199374	project/CMakeFiles/Source.dir/src/Parser.cpp.obj	4ef31f019b67475a
+37	2366	7328033668833397	CMakeFiles/Main.dir/main.cpp.obj	c96ecee4dfbba61e
+11	2444	7328033669548560	project/CMakeFiles/Source.dir/src/Commands.cpp.obj	57c9eb3e04337b61
+22	2490	7328033670069936	project/CMakeFiles/Source.dir/src/CodeFile.cpp.obj	15ba2ed5e62f993f
+2491	2734	7328033672584253	project/libSource.a	ff0e88ff95a6f8b6
+2735	3199	7328033677153899	Main.exe	a725fe7baa4ed908
+8	1665	7328034050368849	project/CMakeFiles/Source.dir/src/CPU.cpp.obj	837d3684430cf382
+17	2101	7328034054742300	project/CMakeFiles/Source.dir/src/Parser.cpp.obj	4ef31f019b67475a
+43	2289	7328034056636122	CMakeFiles/Main.dir/main.cpp.obj	c96ecee4dfbba61e
+34	2324	7328034056958370	project/CMakeFiles/Source.dir/src/Commands.cpp.obj	57c9eb3e04337b61
+26	2492	7328034058682105	project/CMakeFiles/Source.dir/src/CodeFile.cpp.obj	15ba2ed5e62f993f
+2493	2675	7328034060548897	project/libSource.a	ff0e88ff95a6f8b6
+2676	2929	7328034063027204	Main.exe	a725fe7baa4ed908

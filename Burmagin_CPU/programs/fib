@@ -1,0 +1,37 @@
+begin
+
+push 1
+push 1
+popr a
+popr b
+
+push 1
+push 1
+out
+out
+
+push 0
+popr i
+
+cicle:
+    pushr a
+    pushr b
+    add
+    pushr a
+    popr b
+    popr a
+
+    pushr a
+    out
+
+    pushr i
+    push 1
+    add
+    popr i
+
+    pushr i
+    push 38
+
+    jne cicle
+
+end

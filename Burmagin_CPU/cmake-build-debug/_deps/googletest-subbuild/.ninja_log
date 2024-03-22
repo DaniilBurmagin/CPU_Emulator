@@ -1,0 +1,21 @@
+# ninja log v5
+1	74	7328024680356677	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4b961edd66d50565
+1	74	7328024680356677	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4b961edd66d50565
+75	1950	7328024699119847	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	318ddf418bb3685c
+75	1950	7328024699119847	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	318ddf418bb3685c
+1951	2020	7328024699824699	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	59b335663260b9b1
+1951	2020	7328024699824699	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	59b335663260b9b1
+2021	2085	7328024700473688	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	48646820986a8450
+2021	2085	7328024700473688	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	48646820986a8450
+2085	2150	7328024701120891	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9d9ab0f794b4352b
+2085	2150	7328024701120891	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9d9ab0f794b4352b
+2150	2213	7328024701759014	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ccea71b643a0a4be
+2150	2213	7328024701759014	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ccea71b643a0a4be
+2213	2279	7328024702418570	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	55fddce60c01f44d
+2213	2279	7328024702418570	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	55fddce60c01f44d
+2280	2347	7328024703096723	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e96644ffe1e4cc1f
+2280	2347	7328024703096723	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e96644ffe1e4cc1f
+2348	2438	7328024704007736	CMakeFiles/googletest-populate-complete	80e37ce7a4c9c508
+2348	2438	7328024704007736	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	80e37ce7a4c9c508
+2348	2438	7328024704007736	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	80e37ce7a4c9c508
+2348	2438	7328024704007736	C:/универ/Burmagin_CPU/Burmagin_CPU/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	80e37ce7a4c9c508
